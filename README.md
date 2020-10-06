@@ -1,4 +1,4 @@
-# KillCallQulityTeams
+# KillCallQualityuTeams
 How to kill the quality call analytics in teams on MAC. This repo mainly consists of a settings.json file that needs to be placed in your Library in your homedir. It gets rid of the !@#@#$%@##$%^ "How was the call quality" thing in teams which m$ refuses to disable.
 
 ## Procedure
